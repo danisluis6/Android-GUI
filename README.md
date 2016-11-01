@@ -75,7 +75,7 @@
 		android:layout_marginTop="460dp"/>
 	</RelativeLayout>
 
-![alt tag](https://github.com/danisluis6/Lecture/blob/master/07/1.png)
+![alt tag](https://github.com/danisluis6/GUI/blob/master/LoginFacebookApp/1.png)
 
     In app/models/tag.rb add a has_many method, like this: 
 
