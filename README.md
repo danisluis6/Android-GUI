@@ -370,3 +370,5 @@
 	</resources>
 
 
+http://www.android-app-patterns.com/category/login-screens
+
