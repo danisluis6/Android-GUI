@@ -157,6 +157,15 @@
 - Trick: ExRecycle to custom ListView following personal
 
     - Tutorials instruction login beautiful xml with android
-    
+    - This is a picture and you draw picture into file xml
+
+![alt tag](https://github.com/danisluis6/GUI/blob/master/Login01/1.png)
+
+    - ImageView,TextView => width: wrap_content / height: auto => layout_gravity: center_horizontal
+    - Edittext: width: match_parent / height: wrap_content => layout_gravity: center
+    - Designed photoshop: using layout_marginBottom: xxx
+    - compile 'com.android.support:design:23.0.1'
+
+
 
 
