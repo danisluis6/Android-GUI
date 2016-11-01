@@ -23,7 +23,8 @@
         android:padding="12dp"
         android:hint="Email"
         android:textSize="15dp"
-        android:background="@color/emailFB"/>
+        android:background="@color/emailFB"
+        android:lines="1"/>
 
     <EditText
         android:layout_width="match_parent"
@@ -35,7 +36,8 @@
         android:padding="12dp"
         android:hint="Password"
         android:textSize="15dp"
-        android:background="@color/passFB"/>
+        android:background="@color/passFB"
+        android:lines="1"/>
 
     <Button
         android:layout_width="match_parent"
