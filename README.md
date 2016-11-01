@@ -236,6 +236,6 @@
 	</ScrollView>
 
 
-![alt tag](https://github.com/danisluis6/GUI/blob/master/Login01/1.png)
+![alt tag](https://github.com/danisluis6/GUI/blob/master/Login01/2.png)
 
 
