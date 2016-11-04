@@ -75,7 +75,7 @@
 		android:layout_marginTop="460dp"/>
 	</RelativeLayout>
 
-![alt tag](https://github.com/danisluis6/GUI/blob/master/LoginFacebookApp/1.png)
+![alt tag](https://github.com/danisluis6/GUI/blob/master/Login/1.png)
 
     - Basic Login Application Facebook. Only input data into one line. 
     <?xml version="1.0" encoding="utf-8"?>
@@ -371,4 +371,10 @@
 
 
 http://www.android-app-patterns.com/category/login-screens
+
+# SIGNUPFACEBOOKAPP
+- Project: 
+- Description: XML
+- Trick: ExRecycle to custom ListView following personal
+
 
