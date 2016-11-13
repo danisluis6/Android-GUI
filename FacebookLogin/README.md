@@ -75,6 +75,8 @@
 
     - Error 1:
 
-    + android:lines="1"
+![alt tag](https://github.com/danisluis6/GUI/blob/master/Login/1.png)
+
+    + Edittext: android:lines="1"
 	
 
