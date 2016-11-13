@@ -32,7 +32,8 @@
                 android:layout_height="wrap_content"
                 android:inputType="textCapWords"
                 android:hint="Name"
-                android:textColor="@color/white"/>
+                android:textColor="@color/white"
+                />
         </android.support.design.widget.TextInputLayout>
 
         <!-- Email Label -->
