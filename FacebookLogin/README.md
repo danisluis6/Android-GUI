@@ -1,6 +1,6 @@
 # LOGINFACEBOOKAPP
 
-![alt tag](https://github.com/danisluis6/GUI/blob/master/Login/1.png)
+![alt tag](https://github.com/danisluis6/Android-GUI/blob/master/FacebookLogin/1.png)
 
     <?xml version="1.0" encoding="utf-8"?>
 	<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -75,7 +75,7 @@
 
     - Error 1:
 
-![alt tag](https://github.com/danisluis6/GUI/blob/master/Login/1.png)
+![alt tag](https://github.com/danisluis6/Android-GUI/blob/master/FacebookLogin/2.png)
 
     + Edittext: android:lines="1"
 	
